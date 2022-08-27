@@ -1,3 +1,39 @@
+# lurker-for-reddit-svelte
+
+# 🚀 Welcome to Lurker for Reddit. A reddit site that looks nice and has no user-setup 🚀
+
+https://github.com/coding-to-music/lurker-for-reddit-svelte
+
+https://coding-to-music.github.io/lurker-for-reddit-svelte
+
+https://lurker-for-reddit-svelte.vercel.app
+
+From / By https://github.com/industry-standard-good-practice/lurker-for-reddit
+
+https://lurker.me
+
+https://lurker-for-reddit-lhk7gboam-industry-standard.vercel.app/l/all
+
+https://kit.svelte.dev/docs/adapters
+
+## Environment variables:
+
+```java
+
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/lurker-for-reddit-svelte.git
+git push -u origin main
+```
+
 # Lurker for Reddit
 
 [Live site](https://lurker.me)

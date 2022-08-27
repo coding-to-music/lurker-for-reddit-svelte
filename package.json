@@ -1,11 +1,13 @@
 {
-	"name": "lurker",
+	"name": "lurker-for-reddit-svelte",
 	"version": "0.0.1",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
 		"package": "svelte-kit package",
 		"preview": "svelte-kit preview",
+		"deploy": "git add . && git commit -m Build && git push",
+		"deploy:vercel": "npm run deploy && vercel --prod",
 		"lint": "prettier --check --plugin-search-dir=. . && eslint .",
 		"format": "prettier --write --plugin-search-dir=. ."
 	},
