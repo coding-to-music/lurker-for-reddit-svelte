@@ -34,6 +34,13 @@ git remote add origin git@github.com:coding-to-music/lurker-for-reddit-svelte.gi
 git push -u origin main
 ```
 
+## Output messages
+
+```
+401 - {"message":"Unauthorized","error":401}
+StatusCodeError: 401 - {"message":"Unauthorized","error":401}
+```
+
 # Lurker for Reddit
 
 [Live site](https://lurker.me)
